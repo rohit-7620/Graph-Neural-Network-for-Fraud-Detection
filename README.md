@@ -25,5 +25,4 @@ Notes
 - The dataset is synthetic and intended for demonstration. Replace `create_synthetic_dataset` in `src/data.py` with a real dataset loader for production experiments.
 - For best results on real datasets, tune architecture, learning rate, and regularization, and consider richer node/edge features.
 
-License
-This example is provided for demonstration and educational use.
+
