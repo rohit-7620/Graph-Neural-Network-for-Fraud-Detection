@@ -1,0 +1,10 @@
+torch>=2.1
+torch-geometric
+numpy
+pandas
+networkx
+scikit-learn
+
+# Note: Installing torch-geometric often requires selecting matching wheels for
+# your torch/cuda version. See https://pytorch-geometric.readthedocs.io/ for
+# platform-specific install instructions.
